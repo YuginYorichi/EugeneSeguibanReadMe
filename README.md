@@ -2,13 +2,8 @@
 <h5 >A passionate front-end developer from Philippines I Graduated from Mondriaan Aura College with an honours Bachelor's Degree in Computer Science. I'm interested in a wide range of topics, Including Game Development, Technology and Design, Software Engineering, UI/UX.</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuginYorichi&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuginYorichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuginyorich&label=Profile%20views&color=0e75b6&style=flat" alt="yuginyorich" /> </p>
-
 <p align="left"> <a href="https://twitter.com/gamedeveugene" target="blank"><img src="https://img.shields.io/twitter/follow/gamedeveugene?logo=twitter&style=for-the-badge" alt="gamedeveugene" /></a> </p>
 
 <h5> - 🔭 I’m currently working on **Eugene : 2D Pixel Physics Platformer Game (Game in Development)** </h5>
