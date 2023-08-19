@@ -1,7 +1,7 @@
 <h4 >Hi 👋, I'm Eugene Seguiban</h1>
 <h5 >A passionate front-end developer from Philippines I Graduated from Mondriaan Aura College with an honours Bachelor's Degree in Computer Science. I'm interested in a wide range of topics, Including Game Development, Technology and Design, Software Engineering, UI/UX.</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=yuginYorichi)
+![Github stats](https://github-readme-stats.vercel.app/api?username=yuginYorichi&theme=dark&background=000000)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuginYorichi&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuginYorichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
