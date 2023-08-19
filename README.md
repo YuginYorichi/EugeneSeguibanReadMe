@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gamedeveugene" target="blank"><img src="https://img.shields.io/twitter/follow/gamedeveugene?logo=twitter&style=for-the-badge" alt="gamedeveugene" /></a> </p>
 
-- 🔭 I’m currently working on **Eugene : 2D Pixel Physics Platformer Game (Game in Development)**
+<h5> - 🔭 I’m currently working on **Eugene : 2D Pixel Physics Platformer Game (Game in Development)** </h5>
 
 - 🌱 I’m currently learning **ReactJS, TailwindCSS**
 
