@@ -5,6 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuginYorichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuginyorich&label=Profile%20views&color=0e75b6&style=flat" alt="yuginyorich" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gamedeveugene" target="blank"><img src="https://img.shields.io/twitter/follow/gamedeveugene?logo=twitter&style=for-the-badge" alt="gamedeveugene" /></a> </p>
