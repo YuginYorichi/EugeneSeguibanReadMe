@@ -1,7 +1,9 @@
-<h4 align="center">Hi 👋, I'm Eugene Seguiban</h1>
-<h5 align="center">A passionate front-end developer from Philippines I Graduated from Mondriaan Aura College with an honours Bachelor's Degree in Computer Science. I'm interested in a wide range of topics, Including Game Development, Technology and Design, Software Engineering, UI/UX.</h3>
+<h4 >Hi 👋, I'm Eugene Seguiban</h1>
+<h5 >A passionate front-end developer from Philippines I Graduated from Mondriaan Aura College with an honours Bachelor's Degree in Computer Science. I'm interested in a wide range of topics, Including Game Development, Technology and Design, Software Engineering, UI/UX.</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuginYorichi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuginYorichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuginyorich&label=Profile%20views&color=0e75b6&style=flat" alt="yuginyorich" /> </p>
 
@@ -9,11 +11,11 @@
 
 <h5> - 🔭 I’m currently working on **Eugene : 2D Pixel Physics Platformer Game (Game in Development)** </h5>
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS**
+<h5> - 🌱 I’m currently learning **ReactJS, TailwindCSS** </h5>
 
-- 👨‍💻 All of my projects are available at [https://eugeneseguiban.netlify.app/](https://eugeneseguiban.netlify.app/)
+<h5> - 👨‍💻 All of my projects are available at [https://eugeneseguiban.netlify.app/](https://eugeneseguiban.netlify.app/) </h5>
 
-- 📄 Know about my experiences [https://eugeneseguiban.netlify.app/](https://eugeneseguiban.netlify.app/)
+<h5> - 📄 Know about my experiences [https://eugeneseguiban.netlify.app/](https://eugeneseguiban.netlify.app/) </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
