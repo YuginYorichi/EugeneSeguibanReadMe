@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eugene Seguiban</h1>
-<h3 align="center">A passionate front-end developer from Philippines I Graduated from Mondriaan Aura College with an honours Bachelor's Degree in Computer Science. I'm interested in a wide range of topics, Including Game Development, Technology and Design, Software Engineering, UI/UX.</h3>
+<h4 align="center">Hi 👋, I'm Eugene Seguiban</h1>
+<h5 align="center">A passionate front-end developer from Philippines I Graduated from Mondriaan Aura College with an honours Bachelor's Degree in Computer Science. I'm interested in a wide range of topics, Including Game Development, Technology and Design, Software Engineering, UI/UX.</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuginYorichi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuginyorich&label=Profile%20views&color=0e75b6&style=flat" alt="yuginyorich" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuginyorich" alt="yuginyorich" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gamedeveugene" target="blank"><img src="https://img.shields.io/twitter/follow/gamedeveugene?logo=twitter&style=for-the-badge" alt="gamedeveugene" /></a> </p>
 
@@ -33,5 +33,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuginyorich&" alt="yuginyorich" /></p>
 
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuginYorichi&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
