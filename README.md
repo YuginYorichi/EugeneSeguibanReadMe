@@ -4,7 +4,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yuginYorichi&theme=dark&background=000000) 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuginYorichi&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuginYorichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuginyorich&label=Profile%20views&color=0e75b6&style=flat" alt="yuginyorich" />  <a href="https://twitter.com/gamedeveugene" target="blank"><img src="https://img.shields.io/twitter/follow/gamedeveugene?logo=twitter&style=for-the-badge" alt="gamedeveugene" /></a> </p>
 
 
