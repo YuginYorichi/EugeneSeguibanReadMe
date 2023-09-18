@@ -12,9 +12,9 @@
 
 <h5> - 🌱 I’m currently learning **ReactJS, TailwindCSS** </h5>
 
-<h5> - 👨‍💻 All of my projects are available at [https://eugeneseguiban.netlify.app/](https://eugeneseguiban.netlify.app/) </h5>
+<h5> - 👨‍💻 All of my projects are available at [https://eugeneseguiban.netlify.app/] </h5>
 
-<h5> - 📄 Know about my experiences [https://eugeneseguiban.netlify.app/](https://eugeneseguiban.netlify.app/) </h5>
+<h5> - 📄 Know about my experiences [https://eugeneseguiban.netlify.app/] </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
