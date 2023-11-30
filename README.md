@@ -8,8 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuginyorich&label=Profile%20views&color=0e75b6&style=flat" alt="yuginyorich" />  <a href="https://twitter.com/gamedeveugene" target="blank"><img src="https://img.shields.io/twitter/follow/gamedeveugene?logo=twitter&style=for-the-badge" alt="gamedeveugene" /></a> </p>
 
 
-<h5> - 🔭 I’m currently working on **Eugene : 2D Pixel Physics Platformer Game (Game in Development)** </h5>
-
 <h5> - 🌱 I’m currently learning **ReactJS, TailwindCSS** </h5>
 
 <h5> - 👨‍💻 All of my projects are available at [https://eugeneseguiban.netlify.app/] </h5>
